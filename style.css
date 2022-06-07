@@ -23,6 +23,9 @@ body {
   height: calc(100vh - 1px);
   background-color: var(--Light-gray);
 }
+a {
+  text-decoration: none;
+}
 
 .container {
   background-color: var(--White);
