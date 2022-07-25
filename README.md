@@ -4,7 +4,8 @@
 
 ## Solved
 
-Live: https://taiyebnirjhar.github.io/QR-code-challenge-Front-end-mentor/
+###[Live site](https://taiyebnirjhar.github.io/QR-code-challenge-Front-end-mentor/)
+
 
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
