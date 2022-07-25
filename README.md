@@ -4,7 +4,7 @@
 
 ## Solved
 
-###[Live site](https://taiyebnirjhar.github.io/QR-code-challenge-Front-end-mentor/)
+### [Live site](https://taiyebnirjhar.github.io/QR-code-challenge-Front-end-mentor/)
 
 
 
